@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ulaş</h1>
 <h3 align="center">Web Developer and Engineer from Turkey</h3>
+
+<img src="https://github.com/bulascoskun/bulascoskun/blob/main/github-header-image.png" width="100%"/>
+
+
 <p>I am Ulaş from Turkey, Web Developer and Engineer. Proficient in React, Node.js, and Express.js, SQL and MongoDB databases. Skilled in building and maintaining web applications. Well-versed in TypeScript and GitHub for version control. Seeking a position within a dynamic team to leverage expertise in driving organizational success.</p>
 
 - 🔭 I’m currently working on [Dinopedia](https://github.com/chingu-voyages/v48-tier2-team-12)
