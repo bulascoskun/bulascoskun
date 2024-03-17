@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Ulaş, Web Developer and Engineer. Proficient in React, Node.js, and Express.js, SQL and MongoDB databases. Skilled in building and maintaining web applications. Well-versed in TypeScript and GitHub for version control. Seeking a position within a dynamic team to leverage expertise in driving organizational success.
 <!--
 **bulascoskun/bulascoskun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
