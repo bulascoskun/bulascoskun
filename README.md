@@ -5,13 +5,13 @@
 
 <p>I am Ulaş from Turkey, Web Developer and Engineer. Proficient in React, Node.js, and Express.js, SQL and MongoDB databases. Skilled in building and maintaining web applications. Well-versed in TypeScript and GitHub for version control. Seeking a position within a dynamic team to leverage expertise in driving organizational success.</p>
 
-- 🔭 I’m currently working on [Dinopedia](https://github.com/chingu-voyages/v48-tier2-team-12)
+🔭 I’m currently working on [Dinopedia](https://github.com/chingu-voyages/v48-tier2-team-12)
 
-- 🌱 I’m currently learning **SQL** & **Nest.js**
+🌱 I’m currently learning **SQL** & **Nest.js**
 
-- 📫 Reach me bulascoskun@outlook.com
+📫 Reach me bulascoskun@outlook.com
 
-- 📄 My [resume](https://drive.google.com/file/d/10cQ1yBfqwXvJTT_kmJwlTz0OT9nFDEsy/view?usp=sharing)
+📄 My [resume](https://drive.google.com/file/d/10cQ1yBfqwXvJTT_kmJwlTz0OT9nFDEsy/view?usp=sharing)
 
 ---
 
