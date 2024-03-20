@@ -60,8 +60,6 @@ users can learn about the current prices of various types of scrap metal.
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 
 ---
-## 📊 My Github Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bulascoskun" alt="bulascoskun" />
 </p>
