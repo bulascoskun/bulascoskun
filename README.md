@@ -5,7 +5,7 @@
 
 I'm Ulaş from Turkey, Web Developer and Engineer. Proficient in React, Node.js, and Express.js, SQL and MongoDB databases. Skilled in building and maintaining web applications. Well-versed in TypeScript and GitHub for version control. 
 
-I'm currently on the look out for a role in frontend web development, ideally using React framvework. I'd especially love to work at a startup where I can make an impact quickly. If you're hiring, let's chat!
+I'm currently on the look out for a role in web development, ideally using React framework. I'd especially love to work at a startup where I can make an impact quickly. If you're hiring, let's chat!
 
 
 🔭 I’m currently working on [Dinopedia](https://github.com/chingu-voyages/v48-tier2-team-12)
