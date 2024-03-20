@@ -17,31 +17,6 @@ I'm currently on the look out for a role in web development, ideally using React
 📄 My [resume](https://drive.google.com/file/d/10cQ1yBfqwXvJTT_kmJwlTz0OT9nFDEsy/view?usp=sharing)
 
 ---
-
-## 🚀 Projects
-
-### SkillWise.com
-[Live Site](https://skillwise-production.up.railway.app/) | [GitHub](https://github.com/bulascoskun/skillwise)
-
-
-SkillWise.com is a full-stack web application designed for students of all ages, offering a combination of e-commerce and online learning similar to Udemy.
-
-### Birebir
-[Live Site](https://birebir-project.vercel.app/) | [GitHub](https://github.com/bulascoskun/birebir-project)
-
-
-Birebir is a porfolio website designed for an architectural firm. It serves as a plaform where visitors can view the
-projects completed by the architects and easily get in touch with the firm for inquiries or collaborations.
-
-### Scrap Hero
-[Live Site](https://scraphero.netlify.app/) | [GitHub](https://github.com/bulascoskun/scrap-hero)
-
-
-Scrap Hero is a website designed to provide users with informa􀆟on about scrap metal prices. It is a sta􀆟c website where
-users can learn about the current prices of various types of scrap metal.
-
-
----
 ## 💼 Tech Stack
 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="react" width="60" height="50"/> </a>
