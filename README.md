@@ -65,9 +65,6 @@ users can learn about the current prices of various types of scrap metal.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bulascoskun" alt="bulascoskun" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulascoskun&show_icons=true&locale=en" alt="bulascoskun" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bulascoskun&show_icons=true&locale=en&layout=compact" alt="bulascoskun" />
-</p>
+
 
 
