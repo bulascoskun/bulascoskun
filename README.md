@@ -14,11 +14,11 @@ I'm currently on the look out for a role in web development, ideally using React
 
 🌱 I’m currently learning **SQL** & **Nest.js**
 
-👨‍💻 My [website](https://bulascoskun.vercel.app/)
+👨‍💻 My personal [website](https://bulascoskun.vercel.app/)
 
 📫 Reach me bulascoskun@outlook.com
 
-📄 My [resume](https://drive.google.com/file/d/10cQ1yBfqwXvJTT_kmJwlTz0OT9nFDEsy/view?usp=sharing)
+📄 See my [resume](https://drive.google.com/file/d/10cQ1yBfqwXvJTT_kmJwlTz0OT9nFDEsy/view?usp=sharing)
 
 
 ---
