@@ -18,7 +18,7 @@ I'm currently on the look out for a role in web development, ideally using React
 
 📫 Reach me bulascoskun@outlook.com
 
-📄 See my [resume](https://drive.google.com/file/d/10cQ1yBfqwXvJTT_kmJwlTz0OT9nFDEsy/view?usp=sharing)
+📄 See my [resume](https://drive.google.com/file/d/1UKzhUjRElEvEYyYYIZSVloer870QI1oi/view)
 
 
 ---
