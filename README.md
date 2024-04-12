@@ -14,7 +14,7 @@ I'm currently on the look out for a role in web development, ideally using React
 
 🌱 I’m currently learning **SQL** & **Nest.js**
 
-👨‍💻 My personal [website](https://bulascoskun.vercel.app/)
+👨‍💻 My [portfolio site](https://bulascoskun.vercel.app/)
 
 📫 Reach me bulascoskun@outlook.com
 
