@@ -9,16 +9,15 @@ I'm Ulaş from Turkey, Web Developer and Engineer. Proficient in React, Node.js,
 
 I'm currently on the look out for a role in web development, ideally using React framework. I'd especially love to work at a startup where I can make an impact quickly. If you're hiring, let's chat!
 
-
-🔭 I’m currently working on [Dinopedia](https://github.com/chingu-voyages/v48-tier2-team-12)
+<!-- 🔭 I’m currently working on [Dinopedia](https://github.com/chingu-voyages/v48-tier2-team-12) -->
 
 🌱 I’m currently learning **SQL** & **Nest.js**
 
-👨‍💻 My [portfolio site](https://bulascoskun.vercel.app/)
+👨‍💻 My [portfolio site](https://bulascoskun.com/)
 
 📫 Reach me bulascoskun@outlook.com
 
-📄 See my [resume](https://drive.google.com/file/d/1UKzhUjRElEvEYyYYIZSVloer870QI1oi/view)
+📄 See my [resume](https://drive.google.com/file/d/1Tb4Helnuy3zHL1_wn-AEShba5BdhVLSh/view?usp=sharing)
 
 
 ---
