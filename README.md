@@ -1,7 +1,3 @@
-<a href="https://github.com/bulascoskun">
-<img src="./github-header-image.png" width="100%"/>
-</a>
-
 ---
 ## 👤 About Me
 
