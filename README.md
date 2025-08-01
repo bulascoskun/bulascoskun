@@ -9,7 +9,7 @@ I'm currently on the look out for a role in web development, ideally using React
 
 <!-- 🌱 I’m currently learning **.NET** & **Nest.js** -->
 
-👨‍💻 My [portfolio](https://bulascoskun.com/)
+👨‍💻 [bulascoskun.com](https://bulascoskun.com/)
 
 📫 Reach me bulascoskun@outlook.com
 
