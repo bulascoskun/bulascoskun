@@ -1,13 +1,13 @@
 ---
 ## 👤 About Me
 
-I'm Ulaş from Turkey, Web Developer and Engineer. Proficient in React, Node.js, and Express.js, SQL and NoSQL databases. Skilled in building and maintaining web applications. Well-versed in TypeScript and GitHub for version control. 
+I'm Ulaş from Turkey, Software Developer and Engineer. Proficient in Vue, React, Node.js, and Express.js, SQL and NoSQL databases. Skilled in building and maintaining web applications. Well-versed in TypeScript and GitHub for version control. 
 
 I'm currently on the look out for a role in web development, ideally using React, Vue.js framework. I'd especially love to work at a startup where I can make an impact quickly. If you're hiring, let's chat!
 
 <!-- 🔭 I’m currently working on [Dinopedia](https://github.com/chingu-voyages/v48-tier2-team-12) -->
 
-🌱 I’m currently learning **.NET** & **Nest.js**
+<!-- 🌱 I’m currently learning **.NET** & **Nest.js** -->
 
 👨‍💻 My [portfolio](https://bulascoskun.com/)
 
